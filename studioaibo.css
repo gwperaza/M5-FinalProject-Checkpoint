@@ -1,0 +1,19 @@
+body { color: white; background-color: #343434; }
+
+h1 { color: white; background-color: #487cf6; text-align: center; font-size: 3em; font-family: monospace; padding: 35px; letter-spacing: 5px; margin-top: -16px; }
+
+#homeback { height: 375px;  background-image: url(PLACEHOLDER_IMAGE.png); background-size: 100% 100%; background-repeat: no-repeat; margin-top: -35px; }
+
+nav ul { list-style-type: none; font-family: monospace; font-size: 2em; display: flex; }
+
+nav li { display: inline; }
+
+nav a { color: #90C7E3; text-decoration: none; font-family: monospace; padding: 60px; }
+
+h2 { color: 343434; text-align: center; font-size: 3em; font-family: monospace; }
+
+h3 { color: white; text-align: center; font-size: 2em; font-family: monospace; }
+
+footer { color: white; text-align: center; }
+
+footer a { color: white; }
